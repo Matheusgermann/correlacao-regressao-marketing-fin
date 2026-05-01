@@ -147,11 +147,3 @@ Para facilitar o acesso, os dois códigos desenvolvidos estão disponíveis dire
 ## 🚀 Como Reproduzir
 Você pode acessar os notebooks diretamente pelos links do Google Colab listados acima.  
 Caso prefira, também é possível **baixar os arquivos** e rodar localmente no seu ambiente Python.
-
----
-
-<br>
-
-**Matheus Santos Germann**  
-Estudante de Ciência de Dados | Automação Industrial | Python, SQL, Power BI, Machine Learning  
-[LinkedIn](https://www.linkedin.com/in/matheus-germann) | [GitHub](https://github.com/Matheusgermann)
